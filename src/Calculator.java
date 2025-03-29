@@ -2,6 +2,7 @@ public class Calculator {
     // Malas prácticas: variable no descriptiva, método innecesario
     private int x;
 
+    //test comment
     public int sumar(int a, int b) {
         return a + b;
     }
